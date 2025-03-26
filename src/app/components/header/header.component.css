@@ -1,0 +1,50 @@
+* {
+    max-width: 100vw;
+}
+
+nav {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 8rem;
+}
+
+a, li {
+    margin-right: 2rem;
+}
+
+input {
+    margin-right: 1rem;
+}
+
+.formulario {
+    display: flex;
+}
+
+#botonEnviar {
+    border-color: rgb(23, 33, 120);
+    background-color: gray;
+}
+i {
+    color:rgb(23, 33, 120);
+}
+
+#botonEnviar:hover, i:hover {
+    background-color: coral;
+}
+
+#login {
+    position: absolute;
+    right: 0;
+}
+
+@media (max-width: 992px) { /* Solo afecta en pantallas pequeñas */
+    #login {
+      width: 100%;
+      padding-top: 10px;
+      position: relative;
+    }
+  }
+  
