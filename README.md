@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.4.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# AnimePhix---Proyecto-fin-de-curso
+Repositorio destinado al almacenamiento de los archivos necesarios para la creación y el funcionamiento de la página web AnimePhix.
+>>>>>>> a933f0a610284b4e787b41864704c0d822877173
